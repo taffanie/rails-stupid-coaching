@@ -16,5 +16,7 @@ def answer
   end
 end
 
+#can make all variables the same name because if statement will only return one answer
+#try to send minimal things to the view
 
 end
